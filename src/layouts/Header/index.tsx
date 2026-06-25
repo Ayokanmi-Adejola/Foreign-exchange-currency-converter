@@ -33,7 +33,7 @@ export default function Header() {
 				</Brand>
 <RightGroup>
 				<Meta>
-					<MetaCount>{count > 0 ? count : "55"} Currencies</MetaCount>
+					<MetaCount>55 Currencies</MetaCount>
 					<Dot>·</Dot>
 					<span>EOD</span>
 					<Dot>·</Dot>
