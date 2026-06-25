@@ -3,7 +3,6 @@
 import Image from "next/image";
 import Ticker from "@/layouts/Ticker";
 import useCurrencies from "@/hooks/useCurrencies";
-import { useAppContext } from "@/hooks/Context/AppContext";
 import {
 	HeaderWrap,
 	TopBar,
@@ -14,12 +13,10 @@ import {
 	Dot,
 	TickerBar,
 	LiveLabel,
-	ThemeToggleBtn,
 } from "./styled";
 
 export default function Header() {
 	const { data: currencies } = useCurrencies();
-	const { theme, toggleTheme } = useAppContext();
 	const count = Object.keys(currencies).length;
 
 	return (
@@ -34,22 +31,15 @@ export default function Header() {
 						priority
 					/>
 				</Brand>
-				<RightGroup>
-					<Meta>
-						<MetaCount>{count > 0 ? count : "55"} Currencies</MetaCount>
-						<Dot>·</Dot>
-						<span>EOD</span>
-						<Dot>·</Dot>
-						<span>ECB Data</span>
-					</Meta>
-					<ThemeToggleBtn
-						onClick={toggleTheme}
-						aria-label={`Switch to ${theme === "dark" ? "light" : "dark"} theme`}
-						title={`Switch to ${theme === "dark" ? "light" : "dark"} theme`}
-					>
-						{theme === "dark" ? "☀" : "☾"}
-					</ThemeToggleBtn>
-				</RightGroup>
+<RightGroup>
+				<Meta>
+					<MetaCount>{count > 0 ? count : "55"} Currencies</MetaCount>
+					<Dot>·</Dot>
+					<span>EOD</span>
+					<Dot>·</Dot>
+					<span>ECB Data</span>
+				</Meta>
+			</RightGroup>
 			</TopBar>
 			<TickerBar>
 				<LiveLabel>Live markets</LiveLabel>
