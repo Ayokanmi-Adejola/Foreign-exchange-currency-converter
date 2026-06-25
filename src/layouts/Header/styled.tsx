@@ -102,7 +102,8 @@ export const LiveLabel = styled.div`
   font-weight: 700;
   letter-spacing: 0.1em;
   text-transform: uppercase;
-  color: var(--text-primary);
+  color: var(--bg);
+  background: var(--accent);
   white-space: nowrap;
   flex-shrink: 0;
   border-right: 1px solid var(--border-light);
@@ -113,8 +114,8 @@ export const LiveLabel = styled.div`
     width: 7px;
     height: 7px;
     border-radius: 50%;
-    background: var(--accent);
-    box-shadow: 0 0 5px var(--accent);
+    background: var(--bg);
+    box-shadow: 0 0 5px var(--bg);
     animation: blink 2s ease-in-out infinite;
   }
 
