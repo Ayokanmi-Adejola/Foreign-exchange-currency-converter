@@ -1,0 +1,6 @@
+/* Minimal reset — all styling handled by styled-components GlobalStyle */
+*,
+::before,
+::after {
+	box-sizing: border-box;
+}

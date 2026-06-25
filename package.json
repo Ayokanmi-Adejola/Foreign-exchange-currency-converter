@@ -1,0 +1,31 @@
+{
+  "name": "foreign-exchange-currency-converter",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "biome check",
+    "format": "biome format --write",
+    "fix-unsafe": "biome check --write --unsafe"
+  },
+  "dependencies": {
+    "@types/styled-components": "^5.1.36",
+    "axios": "^1.17.0",
+    "date-fns": "^4.4.0",
+    "next": "16.2.9",
+    "react": "19.2.4",
+    "react-dom": "19.2.4",
+    "recharts": "^3.8.1",
+    "styled-components": "^6.4.2",
+    "swr": "^2.4.1"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^2.4.10",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "typescript": "^5"
+  }
+}
