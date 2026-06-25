@@ -1,4 +1,4 @@
-# Frontend Mentor - Foreign Exchange Currency Converter
+Foreign Exchange Currency Converter
 
 This is a solution to the [Foreign Exchange Currency Converter challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/foreign-exchange-currency-converter). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
