@@ -13,9 +13,6 @@
 
 [Features](#-features) • [Demo](#-demo) • [Tech Stack](#-tech-stack) • [Architecture](#-architecture) • [Getting Started](#-getting-started) • [Innovation](#-what-makes-this-stand-out)
 
-[![Hackathon Ready](https://img.shields.io/badge/Hackathon_Ready-2026-green)](https://github.com)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com)
 
 *A cinematic dark-mode currency toolkit built for traders, travelers, and teams, powered by Frankfurter.dev ECB data.*
 
