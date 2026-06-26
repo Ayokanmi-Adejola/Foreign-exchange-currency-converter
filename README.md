@@ -11,9 +11,6 @@
 
 ### Currency conversion • live rates • historical analytics
 
-[Features](#-features) • [Demo](#-demo) • [Tech Stack](#-tech-stack) • [Architecture](#-architecture) • [Getting Started](#-getting-started) • [Innovation](#-what-makes-this-stand-out)
-
-
 *A cinematic dark-mode currency toolkit built for traders, travelers, and teams, powered by Frankfurter.dev ECB data.*
 
 <img width="1440" height="1037" alt="image" src="https://github.com/user-attachments/assets/fa7936eb-e479-4bf3-a812-f6e6e1149e86" />
