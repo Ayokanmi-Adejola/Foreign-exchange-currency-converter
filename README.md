@@ -19,6 +19,9 @@
 
 *A cinematic dark-mode currency toolkit built for traders, travelers, and teams, powered by Frankfurter.dev ECB data.*
 
+<img width="1440" height="1037" alt="image" src="https://github.com/user-attachments/assets/fa7936eb-e479-4bf3-a812-f6e6e1149e86" />
+
+
 ## The Problem
 
 Currency conversion tools today are either buried behind paywalls, force you through five clicks just to compare three currencies, or feel like they were designed in 2004. Travelers lose money on hidden spreads. Developers waste hours wiring together scattered APIs. Analysts need crisp historical context but get clunky spreadsheets.
