@@ -174,8 +174,8 @@ Context Actions (update state → localStorage)
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-org>/fx-converter.git
-cd fx-converter
+git clone https://github.com/Ayokanmi-Adejola/Foreign-exchange-currency-converter
+cd Foreign-exchange-currency-converter
 
 # 2. Install dependencies
 npm install
