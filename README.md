@@ -20,10 +20,6 @@
 
 Currency conversion tools today are either buried behind paywalls, force you through five clicks just to compare three currencies, or feel like they were designed in 2004. Travelers lose money on hidden spreads. Developers waste hours wiring together scattered APIs. Analysts need crisp historical context but get clunky spreadsheets.
 
-We built **FXConverter** to change that.
-
----
-
 ## Features
 
 <table>
