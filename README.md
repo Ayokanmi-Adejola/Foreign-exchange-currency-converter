@@ -9,8 +9,6 @@
 ![SWR](https://img.shields.io/badge/SWR-2.4-000000)
 ![Recharts](https://img.shields.io/badge/Recharts-3.8-8884d1)
 
-### Currency conversion • live rates • historical analytics
-
 *A cinematic dark-mode currency toolkit built for traders, travelers, and teams, powered by Frankfurter.dev ECB data.*
 
 <img width="1440" height="1037" alt="image" src="https://github.com/user-attachments/assets/fa7936eb-e479-4bf3-a812-f6e6e1149e86" />
